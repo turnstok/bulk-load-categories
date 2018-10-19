@@ -1,0 +1,4 @@
+Bundle-Name: BulkLoadCategories
+Bundle-SymbolicName: com.liferay.sales.demo.BulkLoadCategories
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.sales.demo.BulkLoadCategories.constants
